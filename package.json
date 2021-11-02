@@ -1,7 +1,6 @@
 {
   "name": "login-logout",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon app.js"
@@ -21,5 +20,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.14"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepesharya123/Login-logout-h.git"
+  },
+  "bugs": {
+    "url": "https://github.com/deepesharya123/Login-logout-h/issues"
+  },
+  "homepage": "https://github.com/deepesharya123/Login-logout-h#readme",
+  "description": ""
 }
